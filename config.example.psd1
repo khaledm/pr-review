@@ -45,7 +45,7 @@
     }
 
     # Clone mode only - folders that contain your own clones (searched 3 levels deep, matched by remote URL).
-    CloneRoots        = @('C:\src')
+    CloneRoots        = @('C:\Development\_PRs_')
 
     # Clone mode only - explicit mapping when auto-discovery can't work out which folder is which:
     #   '<Collection>/<Project>/<Repo>' (or '<Project>/<Repo>' or '<Repo>') = '<folder>'
